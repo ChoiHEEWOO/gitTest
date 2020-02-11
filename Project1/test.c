@@ -8,5 +8,7 @@ int main(void)
 	//hihihihihihihi
 	mothod();
 	return 0;
+
+
 }
 
